@@ -1,6 +1,5 @@
 //
 //  HMFJSONResponseSerializerWithData.h
-//  MA Mobile
 //
 //  Created by Brandon Butler on 10/15/13.
 //  Copyright (c) 2013 Brandon Butler. All rights reserved.
