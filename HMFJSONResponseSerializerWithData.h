@@ -7,7 +7,7 @@
 
 #import "AFURLResponseSerialization.h"
 
-/// NSError userInfo key that will contain response data
+/// NSError userInfo keys that will contain response data
 static NSString * const JSONResponseSerializerWithDataKey = @"body";
 static NSString * const JSONResponseSerializerWithBodyKey = @"statusCode";
 
